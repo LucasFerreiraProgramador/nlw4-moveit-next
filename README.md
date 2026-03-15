@@ -46,8 +46,10 @@ yarn dev
 
 ---
 
-## 🔥 Prévia
-Aplicação hospedada na **Vercel**.
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
 ---
 
